@@ -1,7 +1,7 @@
 <template>
-  <div class="home">
-    Hello
-  </div>
+  <v-container fluid>
+    <h1 class="display-3">CSP URIreport</h1>
+  </v-container>
 </template>
 
 <script>

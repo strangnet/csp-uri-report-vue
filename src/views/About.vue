@@ -1,7 +1,13 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <v-container fluid>
+    <h1>About CSP URIreport</h1>
+    <p>
+      This tool shows all reported problems with the content security policy
+      your web site has, so you can gather data on what common problems your
+      visitors are having or might have before implementing or changing your
+      policy.
+    </p>
+  </v-container>
 </template>
 
 <script>

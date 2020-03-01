@@ -1,5 +1,5 @@
 <template>
-  <v-container>
+  <v-container fluid>
     <h1 class="display-1">Reports</h1>
     <report-list-data />
   </v-container>
