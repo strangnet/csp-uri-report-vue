@@ -6,6 +6,12 @@
 
 <script>
 export default {
-  name: "About"
+  name: "About",
+  components: {
+    //
+  },
+  data: () => ({
+    //
+  })
 };
 </script>
