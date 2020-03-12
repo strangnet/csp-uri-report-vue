@@ -3659,6 +3659,11 @@ detect-node@^2.0.4:
   resolved "https://registry.yarnpkg.com/detect-node/-/detect-node-2.0.4.tgz#014ee8f8f669c5c58023da64b8179c083a28c46c"
   integrity sha512-ZIzRpLJrOj7jjP2miAtgqIfmzbxa4ZOr5jJc601zklsfEx9oTzmmj2nVpIPRpNlRTIh8lc1kyViIY7BWSGNmKw==
 
+device-detector-js@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/device-detector-js/-/device-detector-js-2.2.1.tgz#c6409cb56001923fd1b40ca11fcaf932000462e0"
+  integrity sha512-1Gt0n8+1ppJNfrpUIWvmLnAG+fMMh5EVbMaWAs3a2D81tJBs0NHMRD6iScjL0pPCZSeAyIFNNMe6qvhDa+gEcQ==
+
 diff-sequences@^24.9.0:
   version "24.9.0"
   resolved "https://registry.yarnpkg.com/diff-sequences/-/diff-sequences-24.9.0.tgz#5715d6244e2aa65f48bba0bc972db0b0b11e95b5"
