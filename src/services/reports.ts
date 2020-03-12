@@ -1,10 +1,10 @@
 import api from "@/services/api";
 
 export default {
-  getReports: () => {
+  getReports() {
     return api().get("/report");
   },
-  getReport: (id: string) => {
+  getReport(id: string) {
     return api().get("/report/" + id);
   }
 };
