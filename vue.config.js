@@ -2,6 +2,6 @@ module.exports = {
   transpileDependencies: ["vuetify"],
 
   pwa: {
-    name: 'csp-uri-report'
+    name: "csp-uri-report"
   }
 };
